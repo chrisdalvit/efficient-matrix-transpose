@@ -1,6 +1,6 @@
 # Efficient Matrix Transpose
 
-This repository implements and benchmarks different matrix transpose algorithms.
+This repository implements and benchmarks different matrix transpose algorithms. Definitely check out the [corresponding blog post](https://chrisdalvit.github.io/efficient-matrix-transpose)
 
 ## Repository structure
 The ```data``` folder contains the original benchmark data from the tested architectures that was used in the experimental analyses. 
